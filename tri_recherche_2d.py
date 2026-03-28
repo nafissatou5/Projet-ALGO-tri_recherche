@@ -35,6 +35,8 @@ Utilisation rapide
 """
 
 import copy  # Pour copier la table sans modifier l'originale
+import sys
+sys.stdout.reconfigure(encoding='utf-8')
 
 
 # ====================================================================
